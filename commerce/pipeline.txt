@@ -1,0 +1,11 @@
+1. Run commerce.py
+
+2. Run extract.py
+
+3. Run structure.py
+
+4. Run clean.py
+
+5. Run clean2.py 
+
+6. Run clean3.py

@@ -1,0 +1,22 @@
+[
+  {
+    "Qualification": "Bachelor of Business Science specialising in Analytics",
+    "FPS": "480",
+    "Subjects": "Mathematics 70, English HL 50, English FAL 60"
+  },
+  {
+    "Qualification": "Bachelor of Business Science specialising in Computer Science",
+    "FPS": "480",
+    "Subjects": "Mathematics 70, English HL 50, English FAL 60"
+  },
+  {
+    "Qualification": "Bachelor of Business Science in Actuarial Science OR Bachelor of Commerce in Actuarial Science",
+    "FPS": "500",
+    "Subjects": "Mathematics 80, English HL 60, English FAL 80"
+  },
+  {
+    "Qualification": "Bachelor of Business Science in Actuarial Science specialising in Quantitative Finance OR Bachelor of Commerce in Actuarial Science specialising in Quantitative Finance",
+    "FPS": "500",
+    "Subjects": "Mathematics 80, English HL 60, English FAL 80"
+  }
+]

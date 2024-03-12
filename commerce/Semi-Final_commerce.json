@@ -1,0 +1,26 @@
+[
+  {
+    "Qualification": "Bachelor Of Business Science And Bachelor Of Commerce",
+    "Comment": "All specialisations except for Actuarial Science and Computer Science",
+    "FPS": "480",
+    "Subject1": "Mathematics 60",
+    "Subject2": "English HL 50",
+    "Subject3": "English FAL 60"
+  },
+  {
+    "Qualification": "Bachelor Of Business Science And Bachelor Of Commerce",
+    "Comment": "ONLY Computer Science and Analytics Specialisation",
+    "FPS": "480",
+    "Subject1": "Mathematics 70",
+    "Subject2": "English HL 50",
+    "Subject3": "English FAL 60"
+  },
+  {
+    "Qualification": "Bachelor Of Business Science And Bachelor Of Commerce",
+    "Comment": "ONLY Actuarial Science and Quantitative Finance Qualification and Stream",
+    "FPS": "500",
+    "Subject1": "Mathematics 80",
+    "Subject2": "English HL 60",
+    "Subject3": "English FAL 80"
+  }
+]

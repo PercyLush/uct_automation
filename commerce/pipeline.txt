@@ -2,10 +2,20 @@
 
 2. Run extract.py
 
-3. Run structure.py
+3. Run structuretxt.py
 
-4. Run clean.py
+4. Run final.py
 
-5. Run clean2.py 
+5. Run clean.py
 
-6. Run clean3.py
+6. Run clean2.py 
+
+7. Run separate.py
+
+8. Run compare+append.py
+
+9. Run clean3.py
+
+10. Run exceptions.py
+
+11. Run final_structure.py

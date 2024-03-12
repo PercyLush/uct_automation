@@ -16,12 +16,12 @@ def main(start_page, end_page):
             extract = text.extract_text()
             Text += extract
 
-    with open("C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\Commerce.txt", 'w', encoding='utf-8') as file:
+    with open('C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built environment\\ebe.txt', 'w', encoding='utf-8') as file:
         file.write(Text)
 
 
-start = 28
-end = 29
+start = 36
+end = 37
 
 if __name__ == '__main__':
     main(start, end)

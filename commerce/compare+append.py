@@ -27,29 +27,11 @@ with open(path, 'r') as file1:
                 course = {
                     "Qualification": qualification_name,
                     "FPS": item['FPS'],
-                    "Subjects": f"{item['Subject1']}, {item['Subject2']}, {item['Subject3']}"
+                    "Requirements": f"{item['Subject1']}, {item['Subject2']}, {item['Subject3']}"
                 }
                 filtered_data.append(course)
                 # Note: The logic for 'except' or handling the second item in 'key' is not clear from your code, so it's not included here.
 
-with open('ToCleanCommerce.json', 'w') as file2:
+with open('C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\ToCleanCommerce.json', 'w') as file2:
     json.dump(filtered_data, file2, indent=2)
 
-
-with open('C:\\Users\\Bheki Lushaba\\uct_automation\\ToCleanCommerce.json', 'r') as file3:
-    data1 = json.load(file3)
-
-    for item in data1:
-
-        if 'Qualification' in item:
-
-            if ' OR ' in item['Qualification']:
-                new_data = item['Qualification'].split(' OR ')
-                item['Qualification'] = new_data[0]
-                course = {"Qualification": new_data[1], "FPS": item['FPS', "Subjects": item['Subjects']]}
-                data1.append(course)
-            else:
-                pass
-
-with open('testing.json', 'w') as file3:
-    json.dump(data1, file3, indent=2)

@@ -1,7 +1,7 @@
 import json
 import re
 
-path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\commerce_requirements.json'
+path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\commerce_requirements.json'
 
 with open(path, 'r') as file1:
     data = json.load(file1)

@@ -15,5 +15,5 @@ with open('C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\ToCleanCommerce.j
             else:
                 pass
 
-with open('C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\ToCleanCommerce.json', 'w') as file3:
+with open('C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\outliers.json', 'w') as file3:
     json.dump(data1, file3, indent=2)

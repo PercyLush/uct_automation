@@ -1,0 +1,206 @@
+[
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Civil Engineering",
+    "FPS": "500",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 20
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Electrical Engineering",
+    "FPS": "500",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 20
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Construction Studies",
+    "FPS": "450",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 20
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Architectural Studies",
+    "FPS": "450",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 103
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Chemical Engineering",
+    "FPS": "500",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 20
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Mechanical Engineering",
+    "FPS": "500",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 75,
+          "required": true,
+          "subjectid": 20
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Geomatics",
+    "FPS": "450",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 75,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 20
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Property Studies",
+    "FPS": "450",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 2
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Electrical & Computer Engineering",
+    "FPS": "500",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 20
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Mechatronics",
+    "FPS": "500",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 20
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Mechanical& Mechatronics Engineering",
+    "FPS": "500",
+    "requirements": [
+      "AND",
+      [
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 75,
+          "required": true,
+          "subjectid": 20
+        }
+      ]
+    ]
+  }
+]

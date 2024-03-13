@@ -1,0 +1,88 @@
+[
+  {
+    "Qualification": "Bachelor Of Medicine And Bachelor Of Surgery \u2013 Mbchb",
+    "Requirements": [
+      {
+        "subject": "Mathematics and Physical Sciences",
+        "minmark": 70
+      },
+      {
+        "subject": "English (Home or First Additional Language)",
+        "minmark": 65
+      }
+    ],
+    "FPS": "810"
+  },
+  {
+    "Qualification": "Bachelor Of Science In Physiotherapy",
+    "Requirements": [
+      {
+        "subject": "Mathematics",
+        "minmark": 60
+      },
+      {
+        "subject": "Physical Sciences or Life Sciences",
+        "minmark": 65
+      },
+      {
+        "subject": "English (Home or First Additional Language)",
+        "minmark": 65
+      }
+    ],
+    "FPS": "730"
+  },
+  {
+    "Qualification": "Bachelor Of Science In Occupational Therapy",
+    "Requirements": [
+      {
+        "subject": "Mathematics 60 or Mathematical Literacy",
+        "minmark": 70
+      },
+      {
+        "subject": "Physical Sciences or Life Sciences",
+        "minmark": 65
+      },
+      {
+        "subject": "English (Home or First Additional Language)",
+        "minmark": 65
+      }
+    ],
+    "FPS": "730"
+  },
+  {
+    "Qualification": "Bachelor Of Science In Audiology",
+    "Requirements": [
+      {
+        "subject": "Mathematics 60 or Mathematical Literacy",
+        "minmark": 70
+      },
+      {
+        "subject": "Physical Sciences or Life Sciences",
+        "minmark": 65
+      },
+      {
+        "subject": "English (Home or First Additional Language)",
+        "minmark": 65
+      }
+    ],
+    "FPS": "720"
+  },
+  {
+    "Qualification": "Bachelor Of Science In Speech-Language Pathology",
+    "Requirements": [
+      {
+        "subject": "Mathematics 60 or Mathematical Literacy",
+        "minmark": 70
+      },
+      {
+        "subject": "Physical Sciences or Life Sciences",
+        "minmark": 65
+      },
+      {
+        "subject": "English (Home or First Additional Language)",
+        "minmark": 65
+      }
+    ],
+    "FPS": "715"
+  }
+]

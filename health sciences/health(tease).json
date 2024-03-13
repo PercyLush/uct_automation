@@ -1,0 +1,27 @@
+[
+  {
+    "Qualification": "Bachelor Of Medicine And Bachelor Of Surgery \u2013 Mbchb",
+    "Requirements": "Mathematics and Physical Sciences 70, English (Home or First Additional Language) 65",
+    "FPS": "810"
+  },
+  {
+    "Qualification": "Bachelor Of Science In Physiotherapy",
+    "Requirements": "Mathematics 60, Physical Sciences or Life Sciences 65, English (Home or First Additional Language)  65",
+    "FPS": "730"
+  },
+  {
+    "Qualification": "Bachelor Of Science In Occupational Therapy",
+    "Requirements": "Mathematics 60 or Mathematical Literacy 70, Physical Sciences or Life Sciences 65, English (Home or First Additional Language) 65 or",
+    "FPS": "730"
+  },
+  {
+    "Qualification": "Bachelor Of Science In Audiology",
+    "Requirements": "Mathematics 60 or Mathematical Literacy 70, Physical Sciences or Life Sciences 65, English (Home or First Additional Language) 65",
+    "FPS": "720"
+  },
+  {
+    "Qualification": "Bachelor Of Science In Speech-Language Pathology",
+    "Requirements": "Mathematics 60 or Mathematical Literacy 70, Physical Sciences or Life Sciences 65, English (Home or First Additional Language) 65",
+    "FPS": "715"
+  }
+]

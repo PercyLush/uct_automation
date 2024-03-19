@@ -1,0 +1,208 @@
+[
+  {
+    "Qualification": "Bachelor Of Medicine And Bachelor Of Surgery \u2013 Mbchb",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      },
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 807
+  },
+  {
+    "Qualification": "Bachelor Of Science In Physiotherapy",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 20
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 19
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 797
+  },
+  {
+    "Qualification": "Bachelor Of Science In Occupational Therapy",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 21
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 20
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 19
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 782
+  },
+  {
+    "Qualification": "Bachelor Of Science In Audiology",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 21
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 20
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 19
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 710
+  },
+  {
+    "Qualification": "Bachelor Of Science In Speech-Language Pathology",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 21
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 20
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 19
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 670
+  }
+]

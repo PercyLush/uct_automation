@@ -1,0 +1,190 @@
+[
+  {
+    "Qualification": "Bachelor Of Arts",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 450
+  },
+  {
+    "Qualification": "Bachelor Of Social Science In Philosophy, Politics And Economics",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 450
+  },
+  {
+    "Qualification": "Bachelor Of Social Work",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 450
+  },
+  {
+    "Qualification": "Bachelor Of Arts In Fine Art",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 380
+  },
+  {
+    "Qualification": "Bachelor Of Arts In Theatre & Performance",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 380
+  },
+  {
+    "Qualification": "Bachelor Of Music",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 34
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 380
+  },
+  {
+    "Qualification": "Diploma In Music Performance",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Diploma In Theatre & Performance",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Social Science",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 450
+  }
+]

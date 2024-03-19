@@ -10,7 +10,7 @@ def main():
 
         for item in data:
             pattern = r'(Mathematics|Physical Sciences|English)\s*(\d+)'
-            DATA = []
+            DATA = ["AND"]
             new_data = item['requirements'].split(',')
 
             for i in new_data:
@@ -27,12 +27,13 @@ def main():
                     "required": True
                 }
                 DATA.append(course)
-            item['requirements'] = ["AND", DATA]
+            item["WPS"] = int(item["WPS"])
+            item['requirements'] = DATA
 
     with open('C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built environment\\EngineeringRequirements.json', 'w') as file2:
         json.dump(data, file2, indent=2)
 
-def final():
+def subject_id():
     path1 = 'C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built environment\\EngineeringRequirements.json'
     path2 = 'c:\\Users\\Bheki Lushaba\\Downloads\\gradesmatch_reference.subject.json'
 
@@ -45,19 +46,19 @@ def final():
             for sub_id in data2:
                 if "requirements" in item and len(item["requirements"]) > 1:
 
-                    for requirement in item["requirements"][1]:
+                    for requirement in item["requirements"]:
                         if 'subject' in requirement:
                             if requirement['subject'] == sub_id['Name']:
                                 requirement['subjectid'] = sub_id['ID']
                                 del requirement['subject']
 
 
-    with open(path1, 'w') as file:
+    with open('C:\\Users\\Bheki Lushaba\\uct_automation\\Requirements\\EngineeringRequirements.json', 'w') as file:
         json.dump(data1, file, indent=2)
 
 
 if __name__ == '__main__':
     main()
-    final()
+    subject_id()
 
 

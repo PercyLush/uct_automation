@@ -1,0 +1,602 @@
+[
+  {
+    "Qualification": "Bachelor of Business Science specialising in Economics",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science specialising in Economics with Law",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science specialising in Finance",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science specialising in Finance with Accounting",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science specialising in Information Systems",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science specialising in Marketing",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science specialising in Organisational Psychology",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Economics and Finance",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Economics with Law",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Economics and Statistics",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Financial Accounting: General Accounting",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Financial Accounting: Chartered Accountant",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Financial Accounting: Accounting with Law",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Information Systems",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Information Systems and Computer Science",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Information Systems and Finance",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Management Studies",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce specialising in Philosophy, Politics & Economics (PPE)",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science specialising in Analytics",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science specialising in Computer Science",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science in Actuarial Science",
+    "WPS": 525,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Business Science in Actuarial Science specialising in Quantitative Finance",
+    "WPS": 525,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce in Actuarial Science",
+    "WPS": 525,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor of Commerce in Actuarial Science specialising in Quantitative Finance",
+    "WPS": 525,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ]
+  }
+]

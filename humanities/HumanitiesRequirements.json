@@ -1,0 +1,190 @@
+[
+  {
+    "Qualification": "Bachelor Of Arts",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
+    ],
+    "FPS": 450
+  },
+  {
+    "Qualification": "Bachelor Of Social Science In Philosophy, Politics And Economics",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
+    ],
+    "FPS": 450
+  },
+  {
+    "Qualification": "Bachelor Of Social Work",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
+    ],
+    "FPS": 450
+  },
+  {
+    "Qualification": "Bachelor Of Arts In Fine Art",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
+    ],
+    "FPS": 380
+  },
+  {
+    "Qualification": "Bachelor Of Arts In Theatre & Performance",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
+    ],
+    "FPS": 380
+  },
+  {
+    "Qualification": "Bachelor Of Music",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Music",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
+    ],
+    "FPS": 380
+  },
+  {
+    "Qualification": "Diploma In Music Performance",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Diploma In Theatre & Performance",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Social Science",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
+    ],
+    "FPS": 450
+  }
+]

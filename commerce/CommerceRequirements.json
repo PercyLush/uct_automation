@@ -1,698 +1,602 @@
 [
   {
     "Qualification": "Bachelor of Business Science specialising in Economics",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Economics with Law",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Finance",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Finance with Accounting",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Information Systems",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Marketing",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Organisational Psychology",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Economics and Finance",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Economics with Law",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Economics and Statistics",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Financial Accounting: General Accounting",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Financial Accounting: Chartered Accountant",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Financial Accounting: Accounting with Law",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Information Systems",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Information Systems and Computer Science",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Information Systems and Finance",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Management Studies",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Philosophy, Politics & Economics (PPE)",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 60,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Analytics",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 70,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Computer Science",
-    "FPS": "480",
+    "WPS": 470,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 50,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 70,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 50,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 60,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science in Actuarial Science",
-    "FPS": "500",
+    "WPS": 525,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 80,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 80,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 80,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 60,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 80,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Business Science in Actuarial Science specialising in Quantitative Finance",
-    "FPS": "500",
+    "WPS": 525,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 80,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 80,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 80,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 60,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 80,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce in Actuarial Science",
-    "FPS": "500",
+    "WPS": 525,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 80,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 80,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 80,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 60,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 80,
+          "required": true
+        }
+      ]
     ]
   },
   {
     "Qualification": "Bachelor of Commerce in Actuarial Science specialising in Quantitative Finance",
-    "FPS": "500",
+    "WPS": 525,
     "Requirements": [
+      "AND",
       {
-        "AND": [
-          {
-            "OR": [
-              {
-                "minmark": 60,
-                "required": true,
-                "subjectid": 43
-              },
-              {
-                "minmark": 80,
-                "required": true,
-                "subjectid": 54
-              }
-            ]
-          },
-          {
-            "minmark": 80,
-            "required": true,
-            "subjectid": 2
-          }
-        ]
-      }
+        "subject": "Mathematics",
+        "minmark": 80,
+        "required": true
+      },
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 60,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 80,
+          "required": true
+        }
+      ]
     ]
   }
 ]

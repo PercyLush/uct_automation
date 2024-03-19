@@ -35,9 +35,9 @@ def fps():
     with open(path2, 'r') as file1:
         data = file1.read()
 
-        pattern = r'(\d+)\s*FPS\s*or\s*above'
+        pattern = r'(\d+)\s*WPS\s*or\s*above'
 
-        final_data = re.sub(pattern, r'FPS: \1' , data)
+        final_data = re.sub(pattern, r'WPS: \1' , data)
 
     with open(path2, 'w') as file2:
         file2.write(final_data)

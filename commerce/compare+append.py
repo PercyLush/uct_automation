@@ -11,7 +11,7 @@ qualification_mapping = {
 key = ['ONLY', 'except']
 
 # Placeholder path - update this path to point to your actual JSON file
-path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\Semi-Final_commerce.json'
+path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\commerce_requirements.json'
 
 with open(path, 'r') as file1:
     original_data = json.load(file1)
@@ -26,7 +26,7 @@ with open(path, 'r') as file1:
                 # Construct the course dictionary
                 course = {
                     "Qualification": qualification_name,
-                    "FPS": item['FPS'],
+                    "WPS": item['WPS'],
                     "Requirements": f"{item['Subject1']}, {item['Subject2']}, {item['Subject3']}"
                 }
                 filtered_data.append(course)

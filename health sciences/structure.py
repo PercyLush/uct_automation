@@ -57,14 +57,15 @@ def structure():
             requirements = item['Requirements']
             new_data = requirements.split(', ')
 
-            DATA = []
+            DATA = ["AND"]
             for key in keys_of_interest:
                 for i in new_data:
                     if i.startswith(key):
                         pattern = r'(.+)\s*(\d{2})'
                         mark = re.search(pattern, i)
                         course = {"subject": mark.group(1).strip(),
-                                  "minmark": int(mark.group(2).strip())
+                                  "minmark": int(mark.group(2).strip()),
+                                "required": True
                                   }
                         DATA.append(course)
                 item['Requirements'] = DATA

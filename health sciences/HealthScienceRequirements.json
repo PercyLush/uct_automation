@@ -3,213 +3,206 @@
     "Qualification": "Bachelor Of Medicine And Bachelor Of Surgery \u2013 Mbchb",
     "Requirements": [
       "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 70,
+        "required": true
+      },
       [
+        "OR",
         {
-          "subject": "Mathematics",
-          "minmark": 70
+          "subject": "English Home Language",
+          "minmark": 65,
+          "required": true
         },
         {
-          "subject": "Physical Sciences",
-          "minmark": 70
-        },
-        [
-          "OR",
-          [
-            {
-              "subject": "English Home Language",
-              "minmark": 65
-            },
-            {
-              "subject": "English First Additional Language",
-              "minmark": 65
-            }
-          ]
-        ]
+          "subject": "English First Additional Language",
+          "minmark": 65,
+          "required": true
+        }
       ]
     ],
-    "FPS": "810"
+    "WPS": 807
   },
   {
     "Qualification": "Bachelor Of Science In Physiotherapy",
     "Requirements": [
       "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 60,
+        "required": true
+      },
       [
+        "OR",
         {
-          "subject": "Mathematics",
-          "minmark": 60
+          "subject": "Physical Sciences",
+          "minmark": 65,
+          "required": true
         },
-        [
-          "OR",
-          [
-            {
-              "subject": "Physical Sciences",
-              "minmark": 65
-            },
-            {
-              "subject": "Life Sciences",
-              "minmark": 65
-            }
-          ]
-        ],
-        [
-          "OR",
-          [
-            {
-              "subject": "English Home Language",
-              "minmark": 65
-            },
-            {
-              "subject": "English First Additional Language",
-              "minmark": 65
-            }
-          ]
-        ]
+        {
+          "subject": "Life Sciences",
+          "minmark": 65,
+          "required": true
+        }
+      ],
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 65,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 65,
+          "required": true
+        }
       ]
     ],
-    "FPS": "730"
+    "WPS": 797
   },
   {
     "Qualification": "Bachelor Of Science In Occupational Therapy",
     "Requirements": [
       "AND",
       [
-        [
-          "OR",
-          [
-            {
-              "subject": "Mathematics",
-              "minmark": 60
-            },
-            {
-              "subject": "Mathematical Literacy",
-              "minmark": 70
-            }
-          ]
-        ],
-        [
-          "OR",
-          [
-            {
-              "subject": "Physical Sciences",
-              "minmark": 65
-            },
-            {
-              "subject": "Life Sciences",
-              "minmark": 65
-            }
-          ]
-        ],
-        [
-          "OR",
-          [
-            {
-              "subject": "English Home Language",
-              "minmark": 65
-            },
-            {
-              "subject": "English First Additional Language",
-              "minmark": 65
-            }
-          ]
-        ]
+        "OR",
+        {
+          "subject": "Mathematics",
+          "minmark": 60,
+          "required": true
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minmark": 70,
+          "required": true
+        }
+      ],
+      [
+        "OR",
+        {
+          "subject": "Physical Sciences",
+          "minmark": 65,
+          "required": true
+        },
+        {
+          "subject": "Life Sciences",
+          "minmark": 65,
+          "required": true
+        }
+      ],
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 65,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 65,
+          "required": true
+        }
       ]
     ],
-    "FPS": "730"
+    "WPS": 782
   },
   {
     "Qualification": "Bachelor Of Science In Audiology",
     "Requirements": [
       "AND",
       [
-        [
-          "OR",
-          [
-            {
-              "subject": "Mathematics",
-              "minmark": 60
-            },
-            {
-              "subject": "Mathematical Literacy",
-              "minmark": 70
-            }
-          ]
-        ],
-        [
-          "OR",
-          [
-            {
-              "subject": "Physical Sciences",
-              "minmark": 65
-            },
-            {
-              "subject": "Life Sciences",
-              "minmark": 65
-            }
-          ]
-        ],
-        [
-          "OR",
-          [
-            {
-              "subject": "English Home Language",
-              "minmark": 65
-            },
-            {
-              "subject": "English First Additional Language",
-              "minmark": 65
-            }
-          ]
-        ]
+        "OR",
+        {
+          "subject": "Mathematics",
+          "minmark": 60,
+          "required": true
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minmark": 70,
+          "required": true
+        }
+      ],
+      [
+        "OR",
+        {
+          "subject": "Physical Sciences",
+          "minmark": 65,
+          "required": true
+        },
+        {
+          "subject": "Life Sciences",
+          "minmark": 65,
+          "required": true
+        }
+      ],
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 65,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 65,
+          "required": true
+        }
       ]
     ],
-    "FPS": "720"
+    "WPS": 710
   },
   {
     "Qualification": "Bachelor Of Science In Speech-Language Pathology",
     "Requirements": [
       "AND",
       [
-        [
-          "OR",
-          [
-            {
-              "subject": "Mathematics",
-              "minmark": 60
-            },
-            {
-              "subject": "Mathematical Literacy",
-              "minmark": 70
-            }
-          ]
-        ],
-        [
-          "OR",
-          [
-            {
-              "subject": "Physical Sciences",
-              "minmark": 65
-            },
-            {
-              "subject": "Life Sciences",
-              "minmark": 65
-            }
-          ]
-        ],
-        [
-          "OR",
-          [
-            {
-              "subject": "English Home Language",
-              "minmark": 65
-            },
-            {
-              "subject": "English First Additional Language",
-              "minmark": 65
-            }
-          ]
-        ]
+        "OR",
+        {
+          "subject": "Mathematics",
+          "minmark": 60,
+          "required": true
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minmark": 70,
+          "required": true
+        }
+      ],
+      [
+        "OR",
+        {
+          "subject": "Physical Sciences",
+          "minmark": 65,
+          "required": true
+        },
+        {
+          "subject": "Life Sciences",
+          "minmark": 65,
+          "required": true
+        }
+      ],
+      [
+        "OR",
+        {
+          "subject": "English Home Language",
+          "minmark": 65,
+          "required": true
+        },
+        {
+          "subject": "English First Additional Language",
+          "minmark": 65,
+          "required": true
+        }
       ]
     ],
-    "FPS": "715"
+    "WPS": 670
   }
 ]

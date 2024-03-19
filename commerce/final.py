@@ -8,7 +8,7 @@ def extract_key_value_pairs(file_path):
         content = file.read()
 
     # Define the keys you're interested in
-    keys_of_interest = ["Qualification", "Comment", "FPS","Subject1","Subject2","Subject3"]
+    keys_of_interest = ["Qualification", "Comment", "WPS","Subject1","Subject2","Subject3"]
 
     # Initialize a list to store JSON objects for each course
     extracted_data_list = []
@@ -34,7 +34,7 @@ def extract_key_value_pairs(file_path):
                 current_course_data[key] = value.strip()
 
 
-            if key == "FPS":
+            if key == "WPS":
                 current_course_data[key] = value.strip()
 
             if key == "Subject1":
@@ -47,7 +47,7 @@ def extract_key_value_pairs(file_path):
                 current_course_data[key] = value.strip() 
 
         # When the "Description" key is found, consider it as the end of a course's information
-        if key == "Subject3":
+        if key == "Stop":
             extracted_data_list.append(current_course_data)
             current_course_data = {}  # Reset for the next course
 

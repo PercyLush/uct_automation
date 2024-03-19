@@ -1,57 +1,57 @@
 [
     {
         "Qualification": "Bachelor Of Science In Engineering In Civil Engineering",
-        "FPS": "500",
+        "WPS": "480",
         "requirements": "Mathematics 80,Physical Sciences 70"
     },
     {
         "Qualification": "Bachelor Of Science In Engineering In Electrical Engineering",
-        "FPS": "500",
+        "WPS": "480",
         "requirements": "Mathematics 80,Physical Sciences 70"
     },
     {
         "Qualification": "Bachelor Of Science In Construction Studies",
-        "FPS": "450",
-        "requirements": "Mathematics 65,Physical Sciences 60"
+        "WPS": "420",
+        "requirements": "Mathematics 65,Physical Sciences 55"
+    },
+    {
+        "Qualification": "Bachelor Of Science In Property Studie",
+        "WPS": "420",
+        "requirements": "Mathematics 65"
     },
     {
         "Qualification": "Bachelor Of Architectural Studies",
-        "FPS": "450",
+        "WPS": "408",
         "requirements": "Mathematics 50,English 50"
     },
     {
         "Qualification": "Bachelor Of Science In Engineering In Chemical Engineering",
-        "FPS": "500",
+        "WPS": "480",
         "requirements": "Mathematics 80,Physical Sciences 70"
     },
     {
         "Qualification": "Bachelor Of Science In Engineering In Mechanical Engineering",
-        "FPS": "500",
+        "WPS": "480",
         "requirements": "Mathematics 80,Physical Sciences 75"
     },
     {
         "Qualification": "Bachelor Of Science In Geomatics",
-        "FPS": "450",
-        "requirements": "Mathematics 75,Physical Sciences 70"
-    },
-    {
-        "Qualification": "Bachelor Of Science In Property Studies",
-        "FPS": "450",
-        "requirements": "Mathematics 65"
+        "WPS": "420",
+        "requirements": "Mathematics 65,Physical Sciences 60"
     },
     {
         "Qualification": "Bachelor Of Science In Engineering In Electrical & Computer Engineering",
-        "FPS": "500",
+        "WPS": 480,
         "requirements": "Mathematics 80,Physical Sciences 70"
     },
     {
         "Qualification": "Bachelor Of Science In Engineering In Mechatronics",
-        "FPS": "500",
+        "WPS": 480,
         "requirements": "Mathematics 80,Physical Sciences 70"
     },
     {
         "Qualification": "Bachelor Of Science In Engineering In Mechanical& Mechatronics Engineering",
-        "FPS": "500",
+        "WPS": 480,
         "requirements": "Mathematics 80,Physical Sciences 75"
     }
 ]

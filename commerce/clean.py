@@ -11,8 +11,8 @@ with open(path, 'r') as file:
         pattern = r'\s*\n(.+)'
         if 'Comment' in item:
             item['Comment'] = re.sub(pattern, r'', item['Comment'])
-        if 'FPS'     in item:
-            item['FPS'] = re.sub(pattern, r'', item['FPS'])
+        if 'WPS' in item:
+            item['WPS'] = re.sub(pattern, r'', item['WPS'])
         if 'Subject3' in item:
             item['Subject3'] = re.sub(pattern, r'', item['Subject3'])
 

@@ -1,10 +1,11 @@
-1. ebe.py
+1. ebe.py (Optional)
 2. extract.py
 3. space_separator.py
-4. to_json.py & to_json2.py
-5. combine.py
+4. to_json.py
+5. combine_json.py
 6. separate_qualifications.py
 7. structure.py
 8. structure(final).py
 
-NOTE: EngineeringRequirements.json
+
+** NOTE: Requirements > EngineeringRequirements.json

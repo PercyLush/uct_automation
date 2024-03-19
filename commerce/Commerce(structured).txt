@@ -11,28 +11,26 @@ Comment: All specialisations except for Actuarial Science and Computer Science
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicants Band A
 FPSGuaranteed admission
-
-FPS: FPS of 480 or above. 
+FPS of 480 or above. 
 NBT scores of Upper Intermediate for AL & QL  
 Subject1: Mathematics 60  
 Subject2: English HL 50   
 Subject3: English FAL 60 
 All applicants Band B
 WPSProbable admission
-WPS of 470 or above.  
+
+WPS: WPS of 470 or above.  
 NBT scores of Upper Intermediate for AL & QL
 Subject1: Mathematics  60   
 Subject2: English HL 50  
 Subject3: English FAL 60
-Minimum required for possible admission
-
-FPS: FPS of 435 or above.  
+Stop: 
+FPS of 435 or above.  
 NBT scores of Upper Intermediate for AL & QL
 Subject1: Mathematics 60   
 Subject2: English HL 50  
 Subject3: English FAL 60
-Only SA 
-applicants 
+Stop: applicants 
 in targeted redress 
 categories with 
 a disadvantage 
@@ -40,8 +38,7 @@ factor greater
 than 1Band C
 FPSPossible admission into Education 
 Development Unit only 
-
-FPS: FPS of 430 to 434.
+FPS of 430 to 434.
 NBT scores of Upper Intermediate for AL & QL
 Subject1: Mathematics 60    
 Subject2: English HL 50    
@@ -53,28 +50,26 @@ Comment: ONLY Computer Science and Analytics Specialisation
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicants Band A
 FPSGuaranteed admission
-
-FPS: FPS of 480 or above.  
+FPS of 480 or above.  
 NBT scores of Upper Intermediate for AL & QL
 Subject1: Mathematics 70   
 Subject2: English HL 50    
 Subject3: English FAL 60 
 All applicants Band B
 WPSProbable admission
-WPS of 470 or above.  
+
+WPS: WPS of 470 or above.  
 NBT scores of Upper Intermediate for AL & QL
 Subject1: Mathematics 70  
 Subject2: English HL 50  
 Subject3: English FAL 60 
-Minimum required for possible admission
-
-FPS: FPS of 435. 
+Stop: 
+FPS of 435. 
 NBT scores of Upper Intermediate for AL & QL
 Subject1: Mathematics 70    
 Subject2: English HL 50    
 Subject3: English FAL 60
-Only SA 
-applicants 
+Stop: applicants 
 in targeted redress 
 categories with 
 a disadvantage 
@@ -82,8 +77,7 @@ factor greater
 than 1Band C
 FPSPossible admission into Education 
 Development Unit only
-
-FPS: FPS of 430 to 434.
+FPS of 430 to 434.
 NBT scores of Upper Intermediate for AL & QL 
 Subject1: Mathematics 70    
 Subject2: English HL 50   
@@ -95,21 +89,20 @@ Comment: ONLY Actuarial Science and Quantitative Finance Qualification and Strea
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicants Band A
 FPSGuaranteed admission
-
-FPS: FPS of 500 or above.  
+FPS of 500 or above.  
 NBT scores of Upper Intermediate for AL & QL
 Subject1: Mathematics 80     
 Subject2: English HL 60   
 Subject3: English FAL 80 (but require Proficient for AL & QL NBT’s)
 All applicants Band B
 WPSProbable admission
-WPS of 525 or above.  
+
+WPS: WPS of 525 or above.  
 NBT scores of Upper Intermediate for AL & QL
 Subject1: Mathematics 80      
 Subject2: English HL 60   
 Subject3: English FAL 80 (but require Proficient for AL & QL NBT’s)
-Only SA 
-applicants 
+Stop: applicants 
 in targeted redress 
 categories with 
 a disadvantage 
@@ -117,8 +110,7 @@ factor greater
 than 1Band C
 FPSPossible admission into Education 
 Development Unit only  
-
-FPS: FPS of 475 to 479.  
+FPS of 475 to 479.  
 NBT scores of Upper Intermediate for AL & QL
 Subject1: Mathematics 80    
 Subject2: English HL 60  

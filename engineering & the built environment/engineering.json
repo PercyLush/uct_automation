@@ -1,49 +1,49 @@
 [
   {
     "Qualification": "Bachelor Of Science In Engineering In Civil Engineering",
-    "FPS": "500",
+    "WPS": "480",
     "Subject1": "Mathematics 80",
     "Subject3": "Physical Sciences 70"
   },
   {
     "Qualification": "Bachelor Of Science In Engineering In Electrical, Electrical \nAnd Computer Engineering And Mechatronics",
-    "FPS": "500",
+    "WPS": "480",
     "Subject1": "Mathematics 80",
     "Subject3": "Physical Sciences 70"
   },
   {
     "Qualification": "Bachelor Of Science In Construction Studies",
-    "FPS": "450",
+    "WPS": "420",
     "Subject1": "Mathematics 65",
-    "Subject3": "Physical Sciences 60"
+    "Subject3": "Physical Sciences 55"
+  },
+  {
+    "Qualification": "Bachelor Of Science In Property Studie",
+    "WPS": "420",
+    "Subject1": "Mathematics 65"
   },
   {
     "Qualification": "Bachelor Of Architectural Studies",
-    "FPS": "450",
+    "WPS": "408",
     "Subject1": "Mathematics 50",
     "Subject2": "English 50"
   },
   {
     "Qualification": "Bachelor Of Science In Engineering In Chemical Engineering",
-    "FPS": "500",
+    "WPS": "480",
     "Subject1": "Mathematics 80",
     "Subject3": "Physical Sciences 70"
   },
   {
     "Qualification": "Bachelor Of Science In Engineering In Mechanical, And  \nMechanical  Mechatronic Engineering",
-    "FPS": "500",
+    "WPS": "480",
     "Subject1": "Mathematics 80",
     "Subject3": "Physical Sciences 75"
   },
   {
     "Qualification": "Bachelor Of Science In Geomatics",
-    "FPS": "450",
-    "Subject1": "Mathematics 75",
-    "Subject3": "Physical Sciences 70"
-  },
-  {
-    "Qualification": "Bachelor Of Science In Property Studies",
-    "FPS": "450",
-    "Subject1": "Mathematics 65"
+    "WPS": "420",
+    "Subject1": "Mathematics 65",
+    "Subject3": "Physical Sciences 60"
   }
 ]

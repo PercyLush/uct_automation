@@ -1,26 +1,6 @@
 import json
 import re
 
-def main():
-    path1 = 'C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built environment\\ebe1.json'
-    path2 = 'C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built environment\\ebe2.json'
-
-    with open(path1, 'r') as file1, open(path2, 'r') as file2:
-        
-        data1 = json.load(file1)
-        data2 = json.load(file2)
-
-        for item2 in data2:
-            if "Qualification" in item2:
-                if 'Bachelor Of Science In Property Studies' in item2['Qualification']:
-                    data1.append(item2)
-                else:
-                    pass
-
-
-    with open('C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built environment\\engineering.json', 'w') as file:
-        json.dump(data1, file, indent=2)
-
 def clean():
     path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built environment\\engineering.json'
 
@@ -64,6 +44,5 @@ def structure():
 
 
 if __name__ == '__main__':
-    main()
     clean()
     structure()

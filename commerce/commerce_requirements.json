@@ -2,70 +2,25 @@
   {
     "Qualification": "Bachelor Of Business Science And Bachelor Of Commerce",
     "Comment": "All specialisations except for Actuarial Science and Computer Science",
-    "FPS": "480",
-    "Subject1": "Mathematics 60",
-    "Subject2": "English HL 50",
-    "Subject3": "English FAL 60"
-  },
-  {
     "Subject1": "Mathematics  60",
     "Subject2": "English HL 50",
-    "Subject3": "English FAL 60"
+    "Subject3": "English FAL 60",
+    "WPS": 470
   },
   {
-    "FPS": "435",
-    "Subject1": "Mathematics 60",
+    "Subject1": "Mathematics 70",
     "Subject2": "English HL 50",
-    "Subject3": "English FAL 60"
-  },
-  {
-    "FPS": "430",
-    "Subject1": "Mathematics 60",
-    "Subject2": "English HL 50",
-    "Subject3": "English FAL 60"
-  },
-  {
+    "Subject3": "English FAL 60",
     "Qualification": "Bachelor Of Business Science And Bachelor Of Commerce",
     "Comment": "ONLY Computer Science and Analytics Specialisation",
-    "FPS": "480",
-    "Subject1": "Mathematics 70",
-    "Subject2": "English HL 50",
-    "Subject3": "English FAL 60"
+    "WPS": 470
   },
   {
-    "Subject1": "Mathematics 70",
-    "Subject2": "English HL 50",
-    "Subject3": "English FAL 60"
-  },
-  {
-    "FPS": "435",
-    "Subject1": "Mathematics 70",
-    "Subject2": "English HL 50",
-    "Subject3": "English FAL 60"
-  },
-  {
-    "FPS": "430",
-    "Subject1": "Mathematics 70",
-    "Subject2": "English HL 50",
-    "Subject3": "English FAL 60 |"
-  },
-  {
+    "Subject1": "Mathematics 80",
+    "Subject2": "English HL 60",
+    "Subject3": "English FAL 80",
     "Qualification": "Bachelor Of Business Science And Bachelor Of Commerce",
     "Comment": "ONLY Actuarial Science and Quantitative Finance Qualification and Stream",
-    "FPS": "500",
-    "Subject1": "Mathematics 80",
-    "Subject2": "English HL 60",
-    "Subject3": "English FAL 80"
-  },
-  {
-    "Subject1": "Mathematics 80",
-    "Subject2": "English HL 60",
-    "Subject3": "English FAL 80"
-  },
-  {
-    "FPS": "475",
-    "Subject1": "Mathematics 80",
-    "Subject2": "English HL 60",
-    "Subject3": "English FAL 80"
+    "WPS": 525
   }
 ]

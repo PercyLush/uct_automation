@@ -3,7 +3,7 @@ import json
 # Define paths for ease of modification and readability.
 path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\outliers.json'
 path_compare = 'C:\\Users\\Bheki Lushaba\\uct_automation\\commerce.json'
-compare_and_append = 'C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\Semi-Final_commerce.json'
+compare_and_append = 'C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\commerce_requirements.json'
 output_path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\Half-done.json'
 
 def main():
@@ -30,7 +30,7 @@ def main():
                 if 'except' in item3.get('Comment', '').lower():  # Ensuring 'Comment' key exists and checking 'except'.
                     course = {
                         "Qualification": item2['Qualification'],
-                        "FPS": item3['FPS'],
+                        "WPS": item3['WPS'],
                         "Requirements": f"{item3['Subject1']}, {item3['Subject2']}, {item3['Subject3']}"
                     }
                     data.append(course)

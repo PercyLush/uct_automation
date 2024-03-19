@@ -51,12 +51,12 @@ Extra:  and 70 for
 Extra: 
 All applicantsBand A 
 FPSGuaranteed admission
-FPS: 810
+810 FPS or above
 
 Extra: NBT scores of Proficient for AL, QL and Mathematics
 All applicantsBand B 
 WPSProbable admission
-807 WPS or above
+WPS: 807
 
 Extra: NBT scores of Intermediate or above for AL, QL and Mathematics
 Only SA 
@@ -64,7 +64,7 @@ applicants in
 targeted redress 
 categories   Band C 
 FPSPossible admission
-FPS: 644
+644 FPS or above
 
 Extra: NBT scores of Intermediate or above for AL, QL and Mathematics
 
@@ -79,12 +79,12 @@ of 360.
 Extra: 
 All applicantsBand A 
 FPSGuaranteed admission
-FPS: 730
+730 FPS or above
 
 Extra: NBT scores of Intermediate or above for AL, QL and Mathematics
 All applicantsBand B 
 WPSProbable admission
-797 WPS or above
+WPS: 797
 
 Extra: NBT scores of Intermediate or above for AL, QL and Mathematics
 Only SA 
@@ -92,9 +92,9 @@ applicants in
 targeted redress 
 categories   Band C 
 FPSPossible admission
-FPS: 580 for redress 1
-FPS: 610 for redress 2
-FPS: 680 for redress 3 and 4 
+580 FPS or above for redress 1
+610 FPS or above for redress 2
+680 FPS or above for redress 3 and 4 
 
 Extra: NBT scores of Intermediate or above for AL, QL and Mathematics
 
@@ -108,7 +108,7 @@ best subjects excluding Life Orientation. Sub-minimum APS of 340.
 Extra: 
 All applicants Band A 
 FPSGuaranteed admission
-FPS: 730
+730 FPS or above
 
 Extra: NBT scores of Intermediate or above for AL, QL  
 and Mathematics (applicants taking Mathematical Literacy 
@@ -117,7 +117,7 @@ NBT Mathematics Test)*
 All applicants Band B 
 WPS
  Probable admission
-782 WPS or above
+WPS: 782
 
 Extra: NBT scores of Intermediate or above for AL, QL and 
 Mathematics (applicants taking Mathematical Literacy and 
@@ -150,7 +150,7 @@ excluding Life Orientation. Sub-minimum APS of 340.
 Extra: 
 All applicants Band A 
 FPSGuaranteed admission
-FPS: 720
+720 FPS or above
 
 Extra: NBT scores of Intermediate or above for AL, QL and 
 Mathematics (applicants taking Mathematical Literacy 
@@ -159,7 +159,7 @@ the NBT Mathematics Test)*
 All applicants Band B 
 WPS
  Probable admission
-710 WPS or above
+WPS: 710
 
 Extra: NBT scores of Intermediate or above for AL, QL and 
 Mathematics (applicants taking Mathematical Literacy 
@@ -188,14 +188,14 @@ Extra:  and 60 for the next three best subjects excluding Life Orientation. Sub-
 Extra: 
 All applicants Band A 
 FPSGuaranteed admission
-FPS: 715
+715 FPS or above
 
 Extra: NBT scores of Intermediate or above for AL, QL and Mathematics 
 (applicants taking Mathematical Literacy and have achieved more 
 than 75 are exempted from the NBT Mathematics Test) **
 All applicants Band B 
 WPSProbable admission
-670 WPS or above
+WPS: 670
 
 Extra: NBT scores of Intermediate or above for AL, QL and Mathematics 
 (applicants taking Mathematical Literacy and have achieved more 

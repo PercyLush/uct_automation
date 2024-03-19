@@ -1,0 +1,376 @@
+[
+  {
+    "Qualification": "BSc Applied Biology",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Applied Mathematics",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Applied Statistics",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Archaeology",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Astrophysics",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Biochemistry",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Business Computing",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Chemistry",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Computer Engineering",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Computer Games Development",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Computer Science",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Ecology & Evolution",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Environmental & Geographical Science",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Genetics",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Geology",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Human Anatomy & Physiology",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Marine Biology",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Mathematical Statistics",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Mathematics",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Ocean & Atmosphere Science",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "BSc Physics",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  },
+  {
+    "Qualification": "Bachelor of Science",
+    "Requirements": [
+      "AND",
+      {
+        "subject": "Mathematics",
+        "minmark": 70,
+        "required": true
+      },
+      {
+        "subject": "Physical Sciences",
+        "minmark": 60,
+        "required": true
+      }
+    ],
+    "APS": 640
+  }
+]

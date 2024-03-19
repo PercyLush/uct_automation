@@ -1,0 +1,184 @@
+[
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Civil Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Electrical Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Construction Studies",
+    "WPS": 420,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 65,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 55,
+        "required": true,
+        "subjectid": 20
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Property Studie",
+    "WPS": 420,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 65,
+        "required": true,
+        "subjectid": 2
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Architectural Studies",
+    "WPS": 408,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 50,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 50,
+        "required": true,
+        "subjectid": 103
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Chemical Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Mechanical Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 75,
+        "required": true,
+        "subjectid": 20
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Geomatics",
+    "WPS": 420,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 65,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Electrical & Computer Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Mechatronics",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ]
+  },
+  {
+    "Qualification": "Bachelor Of Science In Engineering In Mechanical& Mechatronics Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 75,
+        "required": true,
+        "subjectid": 20
+      }
+    ]
+  }
+]

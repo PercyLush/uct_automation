@@ -21,7 +21,7 @@ def whole_text():
         data = file.read()
 
         pattern = r'(BACHELOR\s*OF\s*BUSINESS\s*SCIENCE\s*AND\s*BACHELOR\s*OF\s*COMMERCE\s*\n(.+))'
-        pattern1 = r'(FPS\s*of\s*\d+(.+))'
+        pattern1 = r'(WPS\s*of\s*(\d+)\s*or\s*above)'
         pattern2 = r'(Mathematics\s*\d+)'
         pattern22 = r'(English\s*HL\s*\d+)'
         pattern222 = r'(English\s*FAL\s*\d+)'
@@ -29,7 +29,7 @@ def whole_text():
 
 
         data1 = re.sub(pattern, r'\nQualification: \1\n', data)
-        data2 = re.sub(pattern1, r'\nFPS: \1', data1)
+        data2 = re.sub(pattern1, r'\nWPS: \1', data1)
         data3 = re.sub(pattern2, r'Subject1: \1', data2)
         data33 = re.sub(pattern22, r'Subject2: \1', data3)
         data333 = re.sub(pattern222, r'Subject3: \1', data33)
@@ -46,8 +46,11 @@ def comment():
 
         final_data = re.sub(pattern, r'Qualification: \1\nComment: \2', data)
 
+        pattern2 = r'Minimum required for possible admission|Only\s*SA\s*\n'
+        datadata = re.sub(pattern2, r'Stop: ', final_data)
+
     with open('C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\Commerce(structured).txt', 'w', encoding='utf-8') as file2:
-        file2.write(final_data)
+        file2.write(datadata)
 
 space()
 whole_text()

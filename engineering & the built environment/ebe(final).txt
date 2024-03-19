@@ -11,22 +11,19 @@ Minimum requirements:
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicantsBand A
 FPSGuaranteed admission
-FPS: 500
-Subject1: Mathematics 80  
-Subject3: Physical Sciences 70
+500 FPS or above
+≥ 80 for Mathematics  ≥ 70 for Physical Sciences
 All applicantsBand B
 WPSProbable admission  
-480 WPS or above
-
-Subject1: Mathematics 80  
+WPS: 480
+Subject1: Mathematics 80
 Subject3: Physical Sciences 70
-Only SA applicants 
+Stop:  applicants 
 in targeted redress 
 categoriesBand C
 FPSPossible admission  
-FPS: 420
-Subject1: Mathematics 80  
-Subject3: Physical Sciences 70
+420 FPS or above
+≥ 80 for Mathematics  ≥ 70 for Physical Sciences
 
 
 Qualification: BACHELOR OF SCIENCE IN ENGINEERING IN ELECTRICAL, ELECTRICAL 
@@ -36,22 +33,19 @@ Minimum requirements:
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicantsBand A
 FPSGuaranteed admission
-FPS: 500
-Subject1: Mathematics 80  
-Subject3: Physical Sciences 70
+500 FPS or above
+≥ 80 for Mathematics  ≥ 70 for Physical Sciences
 All applicantsBand B
 WPSProbable admission  
-480 WPS or above
-
-Subject1: Mathematics 80  
+WPS: 480
+Subject1: Mathematics 80
 Subject3: Physical Sciences 70
-Only SA applicants 
+Stop:  applicants 
 in targeted redress 
 categoriesBand C
 FPSPossible admission  
-FPS: 420
-Subject1: Mathematics 80  
-Subject3: Physical Sciences 70
+420 FPS or above
+≥ 80 for Mathematics  ≥ 70 for Physical Sciences
 
 Qualification: BACHELOR OF SCIENCE IN CONSTRUCTION STUDIES  
 Minimum requirements: 
@@ -59,22 +53,19 @@ Minimum requirements:
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicantsBand A
 FPSGuaranteed admission
-FPS: 450
-Subject1: Mathematics 65  
-Subject3: Physical Sciences 60
+450 FPS or above
+≥ 65 for Mathematics  ≥ 60 for Physical Sciences
 All applicantsBand B
 WPSProbable admission  
-420 WPS or above
-
-Subject1: Mathematics 65  
+WPS: 420
+Subject1: Mathematics 65
 Subject3: Physical Sciences 55
-Only SA applicants 
+Stop:  applicants 
 in targeted redress  
 categoriesBand C
 FPSPossible admission  
-FPS: 390
-Subject1: Mathematics 65  
-Subject3: Physical Sciences 55
+390 FPS or above
+≥ 65 for Mathematics  ≥ 55 for Physical Sciences
 
 
 Qualification: BACHELOR OF SCIENCE IN PROPERTY STUDIES
@@ -83,19 +74,19 @@ Minimum requirements:
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicantsBand A
 FPSGuaranteed admission
-FPS: 450
-Subject1: Mathematics 65
+450 FPS or above
+≥ 65 for Mathematics
 All applicantsBand B
 WPSProbable admission  
-420 WPS or above
-
+WPS: 420
 Subject1: Mathematics 65
-Only SA 
+Stop:  
 applicants in 
 targeted redress 
 categoriesBand C
 FPSPossible admission  
-FPS: 390≥ 65 for 
+390 FPS or above
+≥ 65 for 
 Mathematics
 
 
@@ -105,24 +96,21 @@ Minimum requirements:
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicantsBand A
 FPSGuaranteed admission
-FPS: 450
-Subject1: Mathematics 50  
-Subject2: English 50
+450 FPS or above
+≥ 50 for Mathematics  ≥ 50 for English
 Architecture Portfolio Score of 75 or above
 All applicantsBand B
 WPSProbable admission  
-408 WPS or above
-
-Subject1: Mathematics 50  
+WPS: 408
+Subject1: Mathematics 50
 Subject2: English 50
 Architecture Portfolio Score of 68 or above
-Only SA applicants 
+Stop:  applicants 
 in targeted redress 
 categoriesBand C
 FPSPossible admission  
-FPS: 348
-Subject1: Mathematics 50  
-Subject2: English 50
+348 FPS or above
+≥ 50 for Mathematics  ≥ 50 for English
 Architecture Portfolio Score of 50 or above
 
 
@@ -132,22 +120,19 @@ Minimum requirements:
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicantsBand A
 FPSGuaranteed admission
-FPS: 500
-Subject1: Mathematics 80  
-Subject3: Physical Sciences 70
+500 FPS or above
+≥ 80 for Mathematics  ≥ 70 for Physical Sciences
 All applicantsBand B
 WPSProbable admission  
-480 WPS or above
-
-Subject1: Mathematics 80  
+WPS: 480
+Subject1: Mathematics 80
 Subject3: Physical Sciences 70
-Only SA applicants 
+Stop:  applicants 
 in targeted redress 
 categoriesBand C
 FPSPossible admission
-FPS: 420
-Subject1: Mathematics 80  
-Subject3: Physical Sciences 70
+420 FPS or above
+≥ 80 for Mathematics  ≥ 70 for Physical Sciences
 
 Qualification: BACHELOR OF SCIENCE IN ENGINEERING IN MECHANICAL, AND  
 MECHANICAL  MECHATRONIC ENGINEERING 
@@ -156,22 +141,19 @@ Minimum requirements:
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicantsBand A
 FPSGuaranteed admission
-FPS: 500
-Subject1: Mathematics 80  
-Subject3: Physical Sciences 75
+500 FPS or above
+≥ 80 for Mathematics  ≥ 75 for Physical Sciences
 All applicantsBand B
 WPSProbable admission  
-480 WPS or above
-
-Subject1: Mathematics 80  
+WPS: 480
+Subject1: Mathematics 80
 Subject3: Physical Sciences 75
-Only SA applicants 
+Stop:  applicants 
 in targeted redress 
 categoriesBand C
 FPSPossible admission  
-FPS: 420
-Subject1: Mathematics 80  
-Subject3: Physical Sciences 75
+420 FPS or above
+≥ 80 for Mathematics  ≥ 75 for Physical Sciences
 
 
 Qualification: BACHELOR OF SCIENCE IN GEOMATICS
@@ -180,22 +162,19 @@ Minimum requirements:
 ELIGIBLE BAND ADMISSION REQUIREMENTS 
 All applicantsBand A
 FPSGuaranteed admission
-FPS: 450
-Subject1: Mathematics 75  
-Subject3: Physical Sciences 70
+450 FPS or above
+≥ 75 for Mathematics  ≥ 70 for Physical Sciences
 All applicantsBand B
 WPSProbable admission  
-420 WPS or above
-
-Subject1: Mathematics 65  
+WPS: 420
+Subject1: Mathematics 65
 Subject3: Physical Sciences 60
-Only SA applicants 
+Stop:  applicants 
 in targeted redress 
 categoriesBand C
 FPSPossible admission  
-FPS: 390
-Subject1: Mathematics 65  
-Subject3: Physical Sciences 602024 UNDERGRADUATE PROSPECTUS     |      37           ADMISSION CRITERIA FOR APPLICANTS WITH NON-SOUTH AFRICAN 
+390 FPS or above
+≥ 65 for Mathematics  ≥ 60 for Physical Sciences2024 UNDERGRADUATE PROSPECTUS     |      37           ADMISSION CRITERIA FOR APPLICANTS WITH NON-SOUTH AFRICAN 
 SCHOOL-LEAVING CERTIFICATES
  
 The table below is a guide for applicants with Cambridge Assessment International Education 

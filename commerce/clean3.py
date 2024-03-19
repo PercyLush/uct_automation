@@ -10,7 +10,7 @@ with open('C:\\Users\\Bheki Lushaba\\uct_automation\\commerce\\ToCleanCommerce.j
             if ' OR ' in item['Qualification']:
                 new_data = item['Qualification'].split(' OR ')
                 item['Qualification'] = new_data[0]
-                course = {"Qualification": new_data[1], "FPS": item['FPS'], "Subjects": item['Subjects']}
+                course = {"Qualification": new_data[1], "WPS": item['WPS'], "Requirements": item['Requirements']}
                 data1.append(course)
             else:
                 pass

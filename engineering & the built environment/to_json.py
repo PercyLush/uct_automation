@@ -8,7 +8,7 @@ def extract_key_value_pairs(file_path):
         content = file.read()
 
     # Define the keys you're interested in
-    keys_of_interest = ["Qualification", "Comment", "FPS","Subject1","Subject2","Subject3"]
+    keys_of_interest = ["Qualification", "Comment", "WPS","Subject1","Subject2","Subject3"]
 
     # Initialize a list to store JSON objects for each course
     extracted_data_list = []
@@ -29,7 +29,7 @@ def extract_key_value_pairs(file_path):
             if key == "Qualification":
                 current_course_data[key] = value.title().strip()
 
-            if key == "FPS":
+            if key == "WPS":
                 current_course_data[key] = value.strip()
 
             if key == "Subject1":
@@ -37,17 +37,16 @@ def extract_key_value_pairs(file_path):
 
             if key == "Subject2":
                 current_course_data[key] = value.strip()
+
             if key == "Subject3":
                 current_course_data[key] = value.strip()
 
+        
         # When the "Description" key is found, consider it as the end of a course's information
-        if key == "Subject2":
+        
+        if key == "Stop":
             extracted_data_list.append(current_course_data)
             current_course_data = {}  # Reset for the next course
-        else:
-            if key == 'Subject3':
-                extracted_data_list.append(current_course_data)
-                current_course_data = {}  # Reset for the next course
             
 
     return extracted_data_list
@@ -59,7 +58,7 @@ file_path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built e
 result_list = extract_key_value_pairs(file_path)
 
 # Specify the path for the JSON file
-json_file_path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built environment\\ebe1.json'
+json_file_path = 'C:\\Users\\Bheki Lushaba\\uct_automation\\engineering & the built environment\\engineering.json'
 
 # Write the list of JSON objects to a JSON file
 with open(json_file_path, 'w') as json_file:

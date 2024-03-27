@@ -1,0 +1,791 @@
+[{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688477"
+  },
+  "ID": 1,
+  "Name": "English Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688478"
+  },
+  "ID": 2,
+  "Name": "Mathematics"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688479"
+  },
+  "ID": 3,
+  "Name": "IsiNdebele Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968847a"
+  },
+  "ID": 4,
+  "Name": "Life Orientation"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968847b"
+  },
+  "ID": 5,
+  "Name": "Mathematics - Third Paper"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968847c"
+  },
+  "ID": 6,
+  "Name": "Afrikaans Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968847d"
+  },
+  "ID": 7,
+  "Name": "Accounting"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968847e"
+  },
+  "ID": 8,
+  "Name": "Geography"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968847f"
+  },
+  "ID": 9,
+  "Name": "Afrikaans Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688480"
+  },
+  "ID": 12,
+  "Name": "IsiZulu Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688481"
+  },
+  "ID": 13,
+  "Name": "Sepedi Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688482"
+  },
+  "ID": 14,
+  "Name": "Sesotho Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688483"
+  },
+  "ID": 15,
+  "Name": "Setswana Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688484"
+  },
+  "ID": 16,
+  "Name": "SiSwati Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688485"
+  },
+  "ID": 17,
+  "Name": "Tshivenda Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688486"
+  },
+  "ID": 18,
+  "Name": "Xitsonga Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688487"
+  },
+  "ID": 19,
+  "Name": "Life Sciences"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688488"
+  },
+  "ID": 20,
+  "Name": "Physical Sciences"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688489"
+  },
+  "ID": 21,
+  "Name": "Mathematical Literacy"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968848a"
+  },
+  "ID": 22,
+  "Name": "Computer Applications Technology"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968848b"
+  },
+  "ID": 23,
+  "Name": "Information Technology"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968848c"
+  },
+  "ID": 24,
+  "Name": "History"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968848d"
+  },
+  "ID": 25,
+  "Name": "Religion Studies"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968848e"
+  },
+  "ID": 26,
+  "Name": "Business Studies"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968848f"
+  },
+  "ID": 27,
+  "Name": "Economics"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688490"
+  },
+  "ID": 28,
+  "Name": "Consumer Studies"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688491"
+  },
+  "ID": 29,
+  "Name": "Hospitality Studies"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688492"
+  },
+  "ID": 30,
+  "Name": "Tourism"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688493"
+  },
+  "ID": 31,
+  "Name": "Dance Studies"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688494"
+  },
+  "ID": 32,
+  "Name": "Design"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688495"
+  },
+  "ID": 33,
+  "Name": "Dramatic Arts"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688496"
+  },
+  "ID": 34,
+  "Name": "Music"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688497"
+  },
+  "ID": 35,
+  "Name": "Visual Arts"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688498"
+  },
+  "ID": 36,
+  "Name": "Civil Technology"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff19688499"
+  },
+  "ID": 37,
+  "Name": "Electrical Technology"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968849a"
+  },
+  "ID": 38,
+  "Name": "Engineering Graphics & Design"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968849b"
+  },
+  "ID": 39,
+  "Name": "Mechanical Technology"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968849c"
+  },
+  "ID": 40,
+  "Name": "Agricultural Science"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968849d"
+  },
+  "ID": 41,
+  "Name": "Agricultural Management Practices"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968849e"
+  },
+  "ID": 42,
+  "Name": "Agricultural Technology"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff1968849f"
+  },
+  "ID": 43,
+  "Name": "English Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a0"
+  },
+  "ID": 44,
+  "Name": "IsiNdebele Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a1"
+  },
+  "ID": 45,
+  "Name": "IsiXhosa Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a2"
+  },
+  "ID": 46,
+  "Name": "IsiZulu Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a3"
+  },
+  "ID": 47,
+  "Name": "Sepedi Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a4"
+  },
+  "ID": 48,
+  "Name": "Sesotho Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a5"
+  },
+  "ID": 49,
+  "Name": "Setswana Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a6"
+  },
+  "ID": 50,
+  "Name": "SiSwati Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a7"
+  },
+  "ID": 51,
+  "Name": "Tshivenda Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a8"
+  },
+  "ID": 52,
+  "Name": "Xitsonga Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884a9"
+  },
+  "ID": 53,
+  "Name": "Afrikaans First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884aa"
+  },
+  "ID": 54,
+  "Name": "English First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884ab"
+  },
+  "ID": 55,
+  "Name": "IsiNdebele First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884ac"
+  },
+  "ID": 56,
+  "Name": "IsiXhosa First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884ad"
+  },
+  "ID": 57,
+  "Name": "IsiZulu First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884ae"
+  },
+  "ID": 58,
+  "Name": "Sepedi First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884af"
+  },
+  "ID": 59,
+  "Name": "Sesotho First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b0"
+  },
+  "ID": 60,
+  "Name": "Setswana First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b1"
+  },
+  "ID": 61,
+  "Name": "SiSwati First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b2"
+  },
+  "ID": 62,
+  "Name": "Tshivenda First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b3"
+  },
+  "ID": 63,
+  "Name": "Xitsonga First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b4"
+  },
+  "ID": 64,
+  "Name": "IsiXhosa Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b5"
+  },
+  "ID": 65,
+  "Name": "Arabic Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b6"
+  },
+  "ID": 66,
+  "Name": "French Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b7"
+  },
+  "ID": 67,
+  "Name": "German Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b8"
+  },
+  "ID": 68,
+  "Name": "German Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884b9"
+  },
+  "ID": 69,
+  "Name": "Gujarati Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884ba"
+  },
+  "ID": 70,
+  "Name": "Gujarati Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884bb"
+  },
+  "ID": 71,
+  "Name": "Gujarati First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884bc"
+  },
+  "ID": 72,
+  "Name": "Hebrew Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884bd"
+  },
+  "ID": 73,
+  "Name": "Hindi Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884be"
+  },
+  "ID": 74,
+  "Name": "Hindi Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884bf"
+  },
+  "ID": 75,
+  "Name": "Hindi First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c0"
+  },
+  "ID": 76,
+  "Name": "Italian Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c1"
+  },
+  "ID": 77,
+  "Name": "Latin Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c2"
+  },
+  "ID": 78,
+  "Name": "Portuguese Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c3"
+  },
+  "ID": 79,
+  "Name": "Portuguese First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c4"
+  },
+  "ID": 80,
+  "Name": "Portuguese Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c5"
+  },
+  "ID": 81,
+  "Name": "Spanish Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c6"
+  },
+  "ID": 82,
+  "Name": "Tamil Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c7"
+  },
+  "ID": 83,
+  "Name": "Tamil First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c8"
+  },
+  "ID": 84,
+  "Name": "Tamil Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884c9"
+  },
+  "ID": 85,
+  "Name": "Telegu Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884ca"
+  },
+  "ID": 86,
+  "Name": "Telegu Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884cb"
+  },
+  "ID": 87,
+  "Name": "Telegu First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884cc"
+  },
+  "ID": 88,
+  "Name": "Urdu First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884cd"
+  },
+  "ID": 89,
+  "Name": "Urdu Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884ce"
+  },
+  "ID": 90,
+  "Name": "Urdu Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884cf"
+  },
+  "ID": 91,
+  "Name": "Modern Greek Second Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d0"
+  },
+  "ID": 92,
+  "Name": "Equine Studies"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d1"
+  },
+  "ID": 93,
+  "Name": "Maritime Economics"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d2"
+  },
+  "ID": 94,
+  "Name": "Nautical Science"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d3"
+  },
+  "ID": 95,
+  "Name": "Sport & Exercise Science"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d4"
+  },
+  "ID": 96,
+  "Name": "Home Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d5"
+  },
+  "ID": 97,
+  "Name": "First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d6"
+  },
+  "ID": 98,
+  "Name": "Technology"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d7"
+  },
+  "ID": 99,
+  "Name": "EMS"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d8"
+  },
+  "ID": 100,
+  "Name": "Natural Science"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884d9"
+  },
+  "ID": 101,
+  "Name": "Social Science"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884da"
+  },
+  "ID": 102,
+  "Name": "Creative Arts"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884db"
+  },
+  "ID": 103,
+  "Name": "English General"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884dc"
+  },
+  "ID": 104,
+  "Name": "Afrikaans General"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884dd"
+  },
+  "ID": 105,
+  "Name": "German First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884de"
+  },
+  "ID": 106,
+  "Name": "Khoekhoegowab Home Lanaguage"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884df"
+  },
+  "ID": 107,
+  "Name": "Khoekhoegowab First Additional Language"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884e0"
+  },
+  "ID": 108,
+  "Name": "Oshindonga Home Lanaguage"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884e1"
+  },
+  "ID": 109,
+  "Name": "Oshindonga First Additional Lanaguage"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884e2"
+  },
+  "ID": 110,
+  "Name": "Rukwangali Home Lanaguage"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884e3"
+  },
+  "ID": 111,
+  "Name": "Rukwangali First Additional Lanaguage"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884e4"
+  },
+  "ID": 112,
+  "Name": "Thimbukushu Home Lanaguage"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884e5"
+  },
+  "ID": 113,
+  "Name": "Thimbukushu First Additional Lanaguage"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884e6"
+  },
+  "ID": 114,
+  "Name": "Technical Science"
+},
+{
+  "_id": {
+    "$oid": "5ff8028a9ac907ff196884e7"
+  },
+  "ID": 115,
+  "Name": "Technical Maths"
+}]

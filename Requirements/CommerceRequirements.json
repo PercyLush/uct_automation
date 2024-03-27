@@ -22,7 +22,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Economics with Law",
@@ -47,7 +49,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Finance",
@@ -72,7 +76,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Finance with Accounting",
@@ -97,7 +103,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Information Systems",
@@ -122,7 +130,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Marketing",
@@ -147,7 +157,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Organisational Psychology",
@@ -172,7 +184,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Economics and Finance",
@@ -197,7 +211,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Economics with Law",
@@ -222,7 +238,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Economics and Statistics",
@@ -247,7 +265,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Financial Accounting: General Accounting",
@@ -272,7 +292,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Financial Accounting: Chartered Accountant",
@@ -297,7 +319,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Financial Accounting: Accounting with Law",
@@ -322,7 +346,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Information Systems",
@@ -347,7 +373,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Information Systems and Computer Science",
@@ -372,7 +400,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Information Systems and Finance",
@@ -397,7 +427,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Management Studies",
@@ -422,7 +454,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce specialising in Philosophy, Politics & Economics (PPE)",
@@ -447,7 +481,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Analytics",
@@ -472,7 +508,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science specialising in Computer Science",
@@ -497,7 +535,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science in Actuarial Science",
@@ -522,7 +562,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Business Science in Actuarial Science specialising in Quantitative Finance",
@@ -547,7 +589,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce in Actuarial Science",
@@ -572,7 +616,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   },
   {
     "Qualification": "Bachelor of Commerce in Actuarial Science specialising in Quantitative Finance",
@@ -597,6 +643,8 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
   }
 ]

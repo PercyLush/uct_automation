@@ -14,7 +14,9 @@
         "required": true,
         "subjectid": 20
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Science In Engineering In Electrical Engineering",
@@ -31,7 +33,9 @@
         "required": true,
         "subjectid": 20
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Science In Construction Studies",
@@ -48,7 +52,9 @@
         "required": true,
         "subjectid": 20
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Science In Property Studie",
@@ -60,7 +66,9 @@
         "required": true,
         "subjectid": 2
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Architectural Studies",
@@ -77,7 +85,9 @@
         "required": true,
         "subjectid": 103
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Science In Engineering In Chemical Engineering",
@@ -94,7 +104,9 @@
         "required": true,
         "subjectid": 20
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Science In Engineering In Mechanical Engineering",
@@ -111,7 +123,9 @@
         "required": true,
         "subjectid": 20
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Science In Geomatics",
@@ -128,7 +142,9 @@
         "required": true,
         "subjectid": 20
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Science In Engineering In Electrical & Computer Engineering",
@@ -145,7 +161,9 @@
         "required": true,
         "subjectid": 20
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Science In Engineering In Mechatronics",
@@ -162,7 +180,9 @@
         "required": true,
         "subjectid": 20
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   },
   {
     "Qualification": "Bachelor Of Science In Engineering In Mechanical& Mechatronics Engineering",
@@ -179,6 +199,8 @@
         "required": true,
         "subjectid": 20
       }
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
   }
 ]

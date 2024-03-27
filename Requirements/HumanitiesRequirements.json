@@ -17,7 +17,9 @@
         }
       ]
     ],
-    "FPS": 450
+    "FPS": 450,
+    "InstitutionID": 19,
+    "FacultyID": 126
   },
   {
     "Qualification": "Bachelor Of Social Science In Philosophy, Politics And Economics",
@@ -42,7 +44,9 @@
         }
       ]
     ],
-    "FPS": 450
+    "FPS": 450,
+    "InstitutionID": 19,
+    "FacultyID": 126
   },
   {
     "Qualification": "Bachelor Of Social Work",
@@ -62,7 +66,9 @@
         }
       ]
     ],
-    "FPS": 450
+    "FPS": 450,
+    "InstitutionID": 19,
+    "FacultyID": 126
   },
   {
     "Qualification": "Bachelor Of Arts In Fine Art",
@@ -82,7 +88,9 @@
         }
       ]
     ],
-    "FPS": 380
+    "FPS": 380,
+    "InstitutionID": 19,
+    "FacultyID": 126
   },
   {
     "Qualification": "Bachelor Of Arts In Theatre & Performance",
@@ -102,7 +110,9 @@
         }
       ]
     ],
-    "FPS": 380
+    "FPS": 380,
+    "InstitutionID": 19,
+    "FacultyID": 126
   },
   {
     "Qualification": "Bachelor Of Music",
@@ -127,7 +137,9 @@
         }
       ]
     ],
-    "FPS": 380
+    "FPS": 380,
+    "InstitutionID": 19,
+    "FacultyID": 126
   },
   {
     "Qualification": "Diploma In Music Performance",
@@ -146,7 +158,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 126
   },
   {
     "Qualification": "Diploma In Theatre & Performance",
@@ -165,7 +179,9 @@
           "subjectid": 54
         }
       ]
-    ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 126
   },
   {
     "Qualification": "Bachelor Of Social Science",
@@ -185,6 +201,8 @@
         }
       ]
     ],
-    "FPS": 450
+    "FPS": 450,
+    "InstitutionID": 19,
+    "FacultyID": 126
   }
 ]

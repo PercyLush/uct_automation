@@ -27,7 +27,9 @@
         }
       ]
     ],
-    "WPS": 807
+    "WPS": 807,
+    "InstitutionID": 19,
+    "FacultyID": 128
   },
   {
     "Qualification": "Bachelor Of Science In Physiotherapy",
@@ -65,7 +67,9 @@
         }
       ]
     ],
-    "WPS": 797
+    "WPS": 797,
+    "InstitutionID": 19,
+    "FacultyID": 128
   },
   {
     "Qualification": "Bachelor Of Science In Occupational Therapy",
@@ -111,7 +115,9 @@
         }
       ]
     ],
-    "WPS": 782
+    "WPS": 782,
+    "InstitutionID": 19,
+    "FacultyID": 128
   },
   {
     "Qualification": "Bachelor Of Science In Audiology",
@@ -157,7 +163,9 @@
         }
       ]
     ],
-    "WPS": 710
+    "WPS": 710,
+    "InstitutionID": 19,
+    "FacultyID": 128
   },
   {
     "Qualification": "Bachelor Of Science In Speech-Language Pathology",
@@ -203,6 +211,8 @@
         }
       ]
     ],
-    "WPS": 670
+    "WPS": 670,
+    "InstitutionID": 19,
+    "FacultyID": 128
   }
 ]

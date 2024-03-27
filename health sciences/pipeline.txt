@@ -1,8 +1,0 @@
-1. health.py - Scrapes from a web
-2. extract.py - Extracts from a pdf
-3. space_separator.py - cleans and structures the text
-4. final_tease.py - Converts text file to a json file
-5. structure.py
-6. final_structure.py
-
-** NOTE: Requirements > HealthRequirements.json

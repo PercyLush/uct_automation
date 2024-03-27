@@ -1,0 +1,1700 @@
+[
+  {
+    "Qualification": "BBusSc Economics",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Economics with Law",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Finance",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Finance with Accounting",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Information Systems",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Marketing",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Organisational Psychology",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Economics and Finance",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Economics with Law",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Economics and Statistics",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Financial Accounting: General Accounting",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Financial Accounting: Chartered Accountant",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Financial Accounting: Accounting with Law",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Information Systems",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Information Systems and Computer Science",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Information Systems and Finance",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Management Studies",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Philosophy, Politics & Economics (PPE)",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Analytics",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Computer Science",
+    "WPS": 470,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Actuarial Science",
+    "WPS": 525,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BBusSc Actuarial Science specialising in Quantitative Finance",
+    "WPS": 525,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Actuarial Science",
+    "WPS": 525,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BCom Actuarial Science specialising in Quantitative Finance",
+    "WPS": 525,
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 80,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 125
+  },
+  {
+    "Qualification": "BScEng Civil Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "BScEng Electrical Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "BSc Construction Studies",
+    "WPS": 420,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 65,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 55,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "BSc Property Studie",
+    "WPS": 420,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 65,
+        "required": true,
+        "subjectid": 2
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "Bachelor Of Architectural Studies",
+    "WPS": 408,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 50,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 50,
+        "required": true,
+        "subjectid": 103
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "BScEng Chemical Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "BScEng Mechanical Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 75,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "BSc Geomatics",
+    "WPS": 420,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 65,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "BScEng Electrical & Computer Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "BScEng Mechatronics",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "BScEng Mechanical& Mechatronics Engineering",
+    "WPS": 480,
+    "requirements": [
+      "AND",
+      {
+        "minmark": 80,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 75,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 127
+  },
+  {
+    "Qualification": "MBChB Medicine",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 20
+      },
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 807,
+    "InstitutionID": 19,
+    "FacultyID": 128
+  },
+  {
+    "Qualification": "BSc Physiotherapy",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 20
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 19
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 797,
+    "InstitutionID": 19,
+    "FacultyID": 128
+  },
+  {
+    "Qualification": "BSc Occupational Therapy",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 21
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 20
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 19
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 782,
+    "InstitutionID": 19,
+    "FacultyID": 128
+  },
+  {
+    "Qualification": "BSc Audiology",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 21
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 20
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 19
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 710,
+    "InstitutionID": 19,
+    "FacultyID": 128
+  },
+  {
+    "Qualification": "BSc Speech-Language Pathology",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 2
+        },
+        {
+          "minmark": 70,
+          "required": true,
+          "subjectid": 21
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 20
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 19
+        }
+      ],
+      [
+        "OR",
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 65,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "WPS": 670,
+    "InstitutionID": 19,
+    "FacultyID": 128
+  },
+  {
+    "Qualification": "Bachelor Of Arts",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 450,
+    "InstitutionID": 19,
+    "FacultyID": 126
+  },
+  {
+    "Qualification": "BSocSc Philosophy, Politics And Economics",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 2
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 450,
+    "InstitutionID": 19,
+    "FacultyID": 126
+  },
+  {
+    "Qualification": "Bachelor Of Social Work",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 450,
+    "InstitutionID": 19,
+    "FacultyID": 126
+  },
+  {
+    "Qualification": "BA Fine Art",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 380,
+    "InstitutionID": 19,
+    "FacultyID": 126
+  },
+  {
+    "Qualification": "BA Theatre & Performance",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 380,
+    "InstitutionID": 19,
+    "FacultyID": 126
+  },
+  {
+    "Qualification": "Bachelor Of Music",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 34
+      },
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 380,
+    "InstitutionID": 19,
+    "FacultyID": 126
+  },
+  {
+    "Qualification": "Diploma In Music Performance",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 126
+  },
+  {
+    "Qualification": "Diploma In Theatre & Performance",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "InstitutionID": 19,
+    "FacultyID": 126
+  },
+  {
+    "Qualification": "Bachelor Of Social Science",
+    "Requirements": [
+      "AND",
+      [
+        "OR",
+        {
+          "minmark": 50,
+          "required": true,
+          "subjectid": 43
+        },
+        {
+          "minmark": 60,
+          "required": true,
+          "subjectid": 54
+        }
+      ]
+    ],
+    "FPS": 450,
+    "InstitutionID": 19,
+    "FacultyID": 126
+  },
+  {
+    "Qualification": "Bachelor of Laws (LLB)",
+    "APS": 495,
+    "InstitutionID": 19,
+    "FacultyID": 129
+  },
+  {
+    "Qualification": "BSc Applied Biology",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Applied Mathematics",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Applied Statistics",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Archaeology",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Astrophysics",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Biochemistry",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Business Computing",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Chemistry",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Computer Engineering",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Computer Games Development",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Computer Science",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Ecology & Evolution",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Environmental & Geographical Science",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Genetics",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Geology",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Human Anatomy & Physiology",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Marine Biology",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Mathematical Statistics",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Mathematics",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Ocean & Atmosphere Science",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "BSc Physics",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  },
+  {
+    "Qualification": "Bachelor of Science",
+    "Requirements": [
+      "AND",
+      {
+        "minmark": 70,
+        "required": true,
+        "subjectid": 2
+      },
+      {
+        "minmark": 60,
+        "required": true,
+        "subjectid": 20
+      }
+    ],
+    "APS": 640,
+    "InstitutionID": 19,
+    "FacultyID": 130
+  }
+]

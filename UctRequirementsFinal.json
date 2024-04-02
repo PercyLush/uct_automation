@@ -671,11 +671,11 @@
   },
   {
     "Qualification": "BScEng Civil Engineering",
-    "APS": 480,
+    "APS": 460,
     "requirements": [
       "AND",
       {
-        "minmark": 80,
+        "minmark": 75,
         "required": true,
         "subjectid": 2
       },
@@ -700,7 +700,7 @@
         "subjectid": 2
       },
       {
-        "minmark": 70,
+        "minmark": 75,
         "required": true,
         "subjectid": 20
       }
@@ -730,7 +730,7 @@
     "QualificationID": 1202
   },
   {
-    "Qualification": "BSc Property Studie",
+    "Qualification": "BSc Property Studies",
     "APS": 420,
     "requirements": [
       "AND",
@@ -835,7 +835,7 @@
         "subjectid": 2
       },
       {
-        "minmark": 70,
+        "minmark": 75,
         "required": true,
         "subjectid": 20
       }
@@ -855,7 +855,7 @@
         "subjectid": 2
       },
       {
-        "minmark": 70,
+        "minmark": 75,
         "required": true,
         "subjectid": 20
       }

@@ -1,8 +1,8 @@
 [
   {
     "Qualification": "BBusSc Economics",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -29,8 +29,8 @@
   },
   {
     "Qualification": "BBusSc Economics with Law",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -57,8 +57,8 @@
   },
   {
     "Qualification": "BBusSc Finance",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -85,8 +85,8 @@
   },
   {
     "Qualification": "BBusSc Finance with Accounting",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -113,8 +113,8 @@
   },
   {
     "Qualification": "BBusSc Information Systems",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -141,8 +141,8 @@
   },
   {
     "Qualification": "BBusSc Marketing",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -169,8 +169,8 @@
   },
   {
     "Qualification": "BBusSc Organisational Psychology",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -197,8 +197,8 @@
   },
   {
     "Qualification": "BCom Economics and Finance",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -225,8 +225,8 @@
   },
   {
     "Qualification": "BCom Economics with Law",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -253,8 +253,8 @@
   },
   {
     "Qualification": "BCom Economics and Statistics",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -281,8 +281,8 @@
   },
   {
     "Qualification": "BCom Financial Accounting: General Accounting",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -309,8 +309,8 @@
   },
   {
     "Qualification": "BCom Financial Accounting: Chartered Accountant",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -337,8 +337,8 @@
   },
   {
     "Qualification": "BCom Financial Accounting: Accounting with Law",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -365,8 +365,8 @@
   },
   {
     "Qualification": "BCom Information Systems",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -393,8 +393,8 @@
   },
   {
     "Qualification": "BCom Information Systems and Computer Science",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -421,8 +421,8 @@
   },
   {
     "Qualification": "BCom Information Systems and Finance",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -448,8 +448,8 @@
   },
   {
     "Qualification": "BCom Management Studies",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -476,8 +476,8 @@
   },
   {
     "Qualification": "BCom Philosophy, Politics & Economics (PPE)",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -504,8 +504,8 @@
   },
   {
     "Qualification": "BBusSc Analytics",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -532,8 +532,8 @@
   },
   {
     "Qualification": "BBusSc Computer Science",
-    "WPS": 470,
-    "Requirements": [
+    "APS": 470,
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -559,8 +559,8 @@
   },
   {
     "Qualification": "BBusSc Actuarial Science",
-    "WPS": 525,
-    "Requirements": [
+    "APS": 525,
+    "Entrance": [
       "AND",
       {
         "minmark": 80,
@@ -587,8 +587,8 @@
   },
   {
     "Qualification": "BBusSc Actuarial Science specialising in Quantitative Finance",
-    "WPS": 525,
-    "Requirements": [
+    "APS": 525,
+    "Entrance": [
       "AND",
       {
         "minmark": 80,
@@ -615,8 +615,8 @@
   },
   {
     "Qualification": "BCom Actuarial Science",
-    "WPS": 525,
-    "Requirements": [
+    "APS": 525,
+    "Entrance": [
       "AND",
       {
         "minmark": 80,
@@ -643,8 +643,8 @@
   },
   {
     "Qualification": "BCom Actuarial Science specialising in Quantitative Finance",
-    "WPS": 525,
-    "Requirements": [
+    "APS": 525,
+    "Entrance": [
       "AND",
       {
         "minmark": 80,
@@ -671,7 +671,7 @@
   },
   {
     "Qualification": "BScEng Civil Engineering",
-    "WPS": 480,
+    "APS": 480,
     "requirements": [
       "AND",
       {
@@ -691,7 +691,7 @@
   },
   {
     "Qualification": "BScEng Electrical Engineering",
-    "WPS": 480,
+    "APS": 480,
     "requirements": [
       "AND",
       {
@@ -711,7 +711,7 @@
   },
   {
     "Qualification": "BSc Construction Studies",
-    "WPS": 420,
+    "APS": 420,
     "requirements": [
       "AND",
       {
@@ -731,7 +731,7 @@
   },
   {
     "Qualification": "BSc Property Studie",
-    "WPS": 420,
+    "APS": 420,
     "requirements": [
       "AND",
       {
@@ -746,7 +746,7 @@
   },
   {
     "Qualification": "Bachelor Of Architectural Studies",
-    "WPS": 408,
+    "APS": 408,
     "requirements": [
       "AND",
       {
@@ -766,7 +766,7 @@
   },
   {
     "Qualification": "BScEng Chemical Engineering",
-    "WPS": 480,
+    "APS": 480,
     "requirements": [
       "AND",
       {
@@ -786,7 +786,7 @@
   },
   {
     "Qualification": "BScEng Mechanical Engineering",
-    "WPS": 480,
+    "APS": 480,
     "requirements": [
       "AND",
       {
@@ -806,7 +806,7 @@
   },
   {
     "Qualification": "BSc Geomatics",
-    "WPS": 420,
+    "APS": 420,
     "requirements": [
       "AND",
       {
@@ -826,7 +826,7 @@
   },
   {
     "Qualification": "BScEng Electrical & Computer Engineering",
-    "WPS": 480,
+    "APS": 480,
     "requirements": [
       "AND",
       {
@@ -846,7 +846,7 @@
   },
   {
     "Qualification": "BScEng Mechatronics",
-    "WPS": 480,
+    "APS": 480,
     "requirements": [
       "AND",
       {
@@ -866,7 +866,7 @@
   },
   {
     "Qualification": "BScEng Mechanical& Mechatronics Engineering",
-    "WPS": 480,
+    "APS": 480,
     "requirements": [
       "AND",
       {
@@ -886,7 +886,7 @@
   },
   {
     "Qualification": "MBChB Medicine",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -912,14 +912,14 @@
         }
       ]
     ],
-    "WPS": 807,
+    "APS": 807,
     "InstitutionID": 19,
     "FacultyID": 128,
     "QualificationID": 1209
   },
   {
     "Qualification": "BSc Physiotherapy",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -953,14 +953,14 @@
         }
       ]
     ],
-    "WPS": 797,
+    "APS": 797,
     "InstitutionID": 19,
     "FacultyID": 128,
     "QualificationID": 1210
   },
   {
     "Qualification": "BSc Occupational Therapy",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1002,14 +1002,14 @@
         }
       ]
     ],
-    "WPS": 782,
+    "APS": 782,
     "InstitutionID": 19,
     "FacultyID": 128,
     "QualificationID": 1211
   },
   {
     "Qualification": "BSc Audiology",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1051,14 +1051,14 @@
         }
       ]
     ],
-    "WPS": 710,
+    "APS": 710,
     "InstitutionID": 19,
     "FacultyID": 128,
     "QualificationID": 1212
   },
   {
     "Qualification": "BSc Speech-Language Pathology",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1100,14 +1100,14 @@
         }
       ]
     ],
-    "WPS": 670,
+    "APS": 670,
     "InstitutionID": 19,
     "FacultyID": 128,
     "QualificationID": 1213
   },
   {
     "Qualification": "Bachelor Of Arts",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1130,7 +1130,7 @@
   },
   {
     "Qualification": "BSocSc Philosophy, Politics And Economics",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -1158,7 +1158,7 @@
   },
   {
     "Qualification": "Bachelor Of Social Work",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1181,7 +1181,7 @@
   },
   {
     "Qualification": "BA Fine Art",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1204,7 +1204,7 @@
   },
   {
     "Qualification": "BA Theatre & Performance",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1227,7 +1227,7 @@
   },
   {
     "Qualification": "Bachelor Of Music",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 60,
@@ -1255,7 +1255,7 @@
   },
   {
     "Qualification": "Diploma In Music Performance",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1277,7 +1277,7 @@
   },
   {
     "Qualification": "Diploma In Theatre & Performance",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1299,7 +1299,7 @@
   },
   {
     "Qualification": "Bachelor Of Social Science",
-    "Requirements": [
+    "Entrance": [
       "AND",
       [
         "OR",
@@ -1329,7 +1329,7 @@
   },
   {
     "Qualification": "BSc Applied Biology",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1349,7 +1349,7 @@
   },
   {
     "Qualification": "BSc Applied Mathematics",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1369,7 +1369,7 @@
   },
   {
     "Qualification": "BSc Applied Statistics",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1389,7 +1389,7 @@
   },
   {
     "Qualification": "BSc Archaeology",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1409,7 +1409,7 @@
   },
   {
     "Qualification": "BSc Astrophysics",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1429,7 +1429,7 @@
   },
   {
     "Qualification": "BSc Biochemistry",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1449,7 +1449,7 @@
   },
   {
     "Qualification": "BSc Business Computing",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1469,7 +1469,7 @@
   },
   {
     "Qualification": "BSc Chemistry",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1489,7 +1489,7 @@
   },
   {
     "Qualification": "BSc Computer Engineering",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1509,7 +1509,7 @@
   },
   {
     "Qualification": "BSc Computer Games Development",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1528,7 +1528,7 @@
   },
   {
     "Qualification": "BSc Computer Science",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1548,7 +1548,7 @@
   },
   {
     "Qualification": "BSc Ecology & Evolution",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1568,7 +1568,7 @@
   },
   {
     "Qualification": "BSc Environmental & Geographical Science",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1588,7 +1588,7 @@
   },
   {
     "Qualification": "BSc Genetics",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1608,7 +1608,7 @@
   },
   {
     "Qualification": "BSc Geology",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1628,7 +1628,7 @@
   },
   {
     "Qualification": "BSc Human Anatomy & Physiology",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1648,7 +1648,7 @@
   },
   {
     "Qualification": "BSc Marine Biology",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1668,7 +1668,7 @@
   },
   {
     "Qualification": "BSc Mathematical Statistics",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1688,7 +1688,7 @@
   },
   {
     "Qualification": "BSc Mathematics",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1708,7 +1708,7 @@
   },
   {
     "Qualification": "BSc Ocean & Atmosphere Science",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1728,7 +1728,7 @@
   },
   {
     "Qualification": "BSc Physics",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
@@ -1748,7 +1748,7 @@
   },
   {
     "Qualification": "Bachelor of Science",
-    "Requirements": [
+    "Entrance": [
       "AND",
       {
         "minmark": 70,
